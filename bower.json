@@ -1,0 +1,21 @@
+{
+  "name": "project1",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Benny <hotman0901@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}

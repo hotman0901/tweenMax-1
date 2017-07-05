@@ -1,0 +1,9 @@
+$primary-color: pink;
+
+body{
+    color: $primary-color;
+    border: 1px solid red;
+}
+.card{
+    transform: rotate(135deg)
+}
